@@ -1,11 +1,14 @@
 # kittenmaker
 
 *kittenmaker* - an ESP32 based msla 3d printer
+
 *originally created by [NyaCat42](https://github.com/NyanCat42/kittenmaker)*
 
 # Work in progress
 Parts list and instruction may be inaccurate and will be change
+
 As of currently I'm still waiting for all the parts to arrive
+
 Wiring and pins are based off of online resources and codes
 
 ## Features 
@@ -37,11 +40,14 @@ Wiring and pins are based off of online resources and codes
 
 ## 3D models
 it is recommended to print with PETG as it is much more UV resistance than PLA but you could try and use UV protective coating on the  parts that are more likely exposed to the UV light
+
  You will also need to print the legs.3mf and post.3mf 4 times
+ 
  Also for some odd reason the original does not include any way to connect the motor to the lead screw but I did find a model in older version of it which I included in the 3D models folder 
 
 ## Wiring
 ### !!! WARNING WIRING MAY BE INACCURATE AND MAY DAMAGE YOUR HARDWARE PLEASE DOUBLE CHECK BEFORE PLUGGING IN POWER AND MAKE SURE TO TEST IT BEFORE SOLDERING INTO THE BOARDS AND DISPLAY
+
 THIS WIRING LIST IS BASED OFF THE CODE AND EXAMPLE FOUND ONLINE
 
 |Item|ESP32  |
