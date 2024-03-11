@@ -9,7 +9,7 @@ Parts list and instruction may be inaccurate and will be change
 
 ~As of currently I'm still waiting for all the parts to arrive~
 
-Parts have arrived and just notice some problems 
+Parts have arrived and just notice some problems<br> fortunately it's just wrong size of magnet which I have reorder 
 
 Wiring and pins are based off of online resources and codes
 
