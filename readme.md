@@ -7,7 +7,9 @@
 # Work in progress
 Parts list and instruction may be inaccurate and will be change
 
-As of currently I'm still waiting for all the parts to arrive
+~As of currently I'm still waiting for all the parts to arrive~
+
+Parts have arrived and just notice some problems 
 
 Wiring and pins are based off of online resources and codes
 
@@ -33,7 +35,7 @@ Wiring and pins are based off of online resources and codes
  11. Parts for driving the led (can be modified with whatever parts you have like relay)
 	 -	IRFZ44N mosfet
 	 -	2.2 Ohm 5W resistor
-12. 4x3mm magnets x16
+12. ~4x3mm~ 5x2mm magnets x16
 13. 28byj-48-5v stepper motor with uln2003 driver
 14. Micro switch
 15. SD Card reader (NOT DFPlayer)
