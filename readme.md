@@ -64,9 +64,9 @@ THIS WIRING LIST IS BASED OFF THE CODE AND EXAMPLE FOUND ONLINE
 |**SD CARD**||
 |(Again may be inaccurate <br> as all these are based off <br> what I could find online)||
 |CS|GPIO 1|
-|MOSI|GPIO 35|
-|CLK|GPIO 36|
-|MISO|GPIO 37|
+|MOSI|GPIO 11|
+|CLK|GPIO 7|
+|MISO|GPIO 9|
 |3v3| 3v3|
 |**TFT DISPLAY**||
 |MISO|GPIO 9|
