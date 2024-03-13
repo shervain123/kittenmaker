@@ -91,8 +91,10 @@ Not yet finished building but i can add some first
 
 ## Software
 
-Slicer [Chitubox](https://www.chitubox.com/en/download/chitubox-free)
+Slicer [Chitubox](https://www.chitubox.com/en/download/chitubox-free)<br>
+[Chitubox v1.8.1](https://sac.chitubox.com/software/download.do?softwareId=17839&softwareVersionId=v1.8.1&fileName=CHITUBOX64Install_V1.8.1.exe)
 (Honestly I don't really like it but I don't know any better alternative so I'm stuck with this one)
+<br>also if you are using newer version you will need software like uvtools to convert the ctb file to a zip. Older version can save as zip files
 
 
 
