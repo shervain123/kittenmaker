@@ -48,7 +48,7 @@ it is recommended to print with PETG as it is much more UV resistance than PLA b
  Also for some odd reason the original does not include any way to connect the motor to the lead screw but I did find a model in older version of it which I included in the 3D models folder 
 
 ## Instructions
-I have decided to split them out you can find them [here](https://github.com/shervain123/kittenmaker/instruction.md)
+I have decided to split them out you can find them [here](https://github.com/shervain123/kittenmaker/blob/main/instruction.md)
 
 ## Software
 
