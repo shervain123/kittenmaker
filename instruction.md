@@ -74,9 +74,10 @@ tbh this is all over the place so you should just use this as a guide for what p
 	![now with nuts!](https://github.com/shervain123/kittenmaker/blob/main/images/carrage%20with%20screw%20and%20nuts.jpg) 
 25. Screw the plastic peg into the screw
 	![Pegs](https://github.com/shervain123/kittenmaker/blob/main/images/carrage%20with%20plastic%20thingy.jpg)
-26. place the magnet in all the places needs it (vat,case top, build plate and the just fron just now)
-27. stick the FEP film on the vat
-28. i think that's about it
-29. idk still waiting for my magnets
+26. add the longest m2 screw you have to the small part at the bearing side (this function as a home switch adjuster thingy)
+27. place the magnet in all the places needs it (vat,case top, build plate and the just fron just now)
+28. stick the FEP film on the vat
+29. i think that's about it
+30. idk still waiting for my magnets
 
 
