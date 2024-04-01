@@ -255,11 +255,11 @@ void setup() {
 
   pinMode(Home_Switch, INPUT_PULLUP); // homing switch
   pinMode(UV_LED, OUTPUT);       // uv led driver (high is off)
-  digitalWrite(UV_LED, 1);       // turn led off
+  digitalWrite(UV_LED, 0);       // turn led off
 
   Serial.begin(115200);
 
-  if (!SD.begin(SD_CS)) {
+  if (!SD.begin(1)) {
     Serial.println(F("SD.begin failed!"));
   }
 
@@ -283,7 +283,6 @@ void setup() {
   server.serveStatic("/", SPIFFS, "/");
 
   server.begin();
-
 }
 
 void loop() {
@@ -334,9 +333,9 @@ void loop() {
       exposure_time_print = exposure_time;
     }
 
-    digitalWrite(UV_LED, 0);
-    delay(exposure_time_print*1000);
     digitalWrite(UV_LED, 1);
+    delay(exposure_time_print*1000);
+    digitalWrite(UV_LED, 0);
 
     steps_per_layer = steps_per_um * layerheight + 0.5;
     if(layer <= bottom_layer_count){
