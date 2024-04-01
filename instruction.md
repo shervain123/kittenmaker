@@ -40,7 +40,7 @@ This is the pinout for my display please check with your display first
 
 This instructions is for the new bottom which I have modified from the original and with the help of tormenmashi_
 
-If you want to follow with the original instruction, it can be found [here](https://github.com).
+If you want to follow with the original instruction, it can be found [here](https://github.com/shervain123/kittenmaker/blob/main/instruction%20old.md).
 
 tbh this is all over the place so you should just use this as a guide for what parts goes where (I have no idea what im doing)
 
@@ -49,9 +49,9 @@ tbh this is all over the place so you should just use this as a guide for what p
    ![Both build plate and light tunnel](https://github.com/shervain123/kittenmaker/blob/main/images/light%20tunnel%20and%20build%20plate.jpg)
 3. Screw the bottom to the bottom case using 3 M3 screw and nuts
 4. Solder wires to the sdcard board and screw it into the bottom case using 2 M2 screw and nuts
-   ![SD screw in](link)
+   ![SD screw in](https://github.com/shervain123/kittenmaker/blob/main/images/new%20sd.jpg)
 5. Screw the wemos s2 mini with the spacer
-   ![wemos screw in](link)
+   ![wemos screw in](https://github.com/shervain123/kittenmaker/blob/main/images/new%20s2.jpg)
 6. Next screw in your fan and pass the wire through the hole
 7. Remove the lcd from the frame, the metal backing can be removed using a flat head screwdriver then gently bend the plastic part backwards to loosen the glue and slow the display will pop out
 8. make sure you remove all the backlight component from the display and you should be left with a lcd that is see through dimly
