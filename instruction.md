@@ -1,3 +1,4 @@
+
 [here](https://github.com)
 
 ## Wiring
@@ -44,7 +45,7 @@ If you want to follow with the original instruction, it can be found [here](http
 
 tbh this is all over the place so you should just use this as a guide for what parts goes where (I have no idea what im doing)
 
-1. Cut a piece of aluminum tape and stick it on the build plate
+1. ~~Cut a piece of aluminum tape and stick it on the build plate~~ Turns out aluminum tape is trash instead, cut a aluminum can and stick it on using super glue
 2. Use aluminum tape to cover the inside light tunnel to help the light disperse better
    ![Both build plate and light tunnel](https://github.com/shervain123/kittenmaker/blob/main/images/light%20tunnel%20and%20build%20plate.jpg)
 3. Screw the bottom to the bottom case using 3 M3 screw and nuts
@@ -80,6 +81,6 @@ tbh this is all over the place so you should just use this as a guide for what p
     ![Pegs](https://github.com/shervain123/kittenmaker/blob/main/images/carrage%20with%20plastic%20thingy.jpg)
 23. add the longest m2 screw you have to the small part at the bearing side (this function as a home switch adjuster thingy)
 24. place the magnet in all the places needs it (vat,case top, build plate and the just fron just now)
-25. stick the FEP film on the vat
-26. i think that's about it
-27. idk still waiting for my magnets
+25. stick the FEP film on the vat with double side tape 
+26. I have no idea how to attach the fep film superglue doesn't work
+27. i think that's about it
