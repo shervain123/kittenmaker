@@ -8,9 +8,9 @@
 # Work in progress
 Parts list and instruction may be inaccurate and will be change
 
-~As of currently I'm still waiting for all the parts to arrive~
+~ As of currently I'm still waiting for all the parts to arrive ~
 
-Parts have arrived and just notice some problems<br> fortunately it's just wrong size of magnet which I have reorder 
+~ Parts have arrived and just notice some problems<br> fortunately it's just wrong size of magnet which I have reorder ~
 
 Wiring and pins are based off of online resources and codes
 
@@ -54,7 +54,7 @@ Bottom was redesigned to move the SD card and Wemos to a different location to f
 I have decided to split them out you can find them [here](https://github.com/shervain123/kittenmaker/blob/main/instruction.md)
 
 ## Known Issue / WIP issue
-Faced an issue where ESP32S2 failed to initialized and bootlooping. ~~Issue was caused by a cheap unbranded SD card that does not support SPI~~ (The SD card worked at a later date) 
+Faced an issue where ESP32S2 failed to initialized and bootlooping. ~~Issue was caused by a cheap unbranded SD card that does not support SPI~~ (The SD card worked at a later date)(seems like wiring issue on the sd reader) 
 
 Used paint primer to smooth out the resin tray, turns out primer is not resin safe. oops.
 
